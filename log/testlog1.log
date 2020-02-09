@@ -1,0 +1,88 @@
+2020-02-05 19:55:22,165 [main] INFO SwagLabs - URL Opened
+2020-02-05 19:55:22,367 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 19:55:32,118 [main] INFO SwagLabs - LogIn Failure
+2020-02-05 20:11:59,061 [main] INFO SwagLabs - URL Opened
+2020-02-05 20:11:59,274 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 20:12:09,698 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 20:42:18,253 [main] INFO SwagLabs - URL Opened
+2020-02-05 20:42:18,444 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 20:42:34,223 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 20:45:33,500 [main] INFO SwagLabs - URL Opened
+2020-02-05 20:45:33,689 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 20:45:42,614 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 21:41:01,742 [main] INFO SwagLabs - URL Opened
+2020-02-05 21:41:01,952 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 21:41:11,314 [main] INFO SwagLabs - LogIn Failure
+2020-02-05 21:44:44,139 [main] INFO SwagLabs - URL Opened
+2020-02-05 21:44:44,331 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 21:44:44,781 [main] INFO SwagLabs - LogIn Failure
+2020-02-05 22:02:55,663 [main] INFO SwagLabs - URL Opened
+2020-02-05 22:02:55,873 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 22:03:05,003 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 22:07:25,421 [main] INFO SwagLabs - URL Opened
+2020-02-05 22:07:25,604 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 22:07:34,522 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 22:19:32,140 [main] INFO SwagLabs - URL Opened
+2020-02-05 22:19:32,361 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 22:19:41,321 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 22:21:15,490 [main] INFO SwagLabs - URL Opened
+2020-02-05 22:21:15,694 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 22:21:24,940 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 22:22:57,542 [main] INFO SwagLabs - URL Opened
+2020-02-05 22:22:57,732 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 22:23:06,634 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 23:29:52,340 [main] INFO SwagLabs - URL Opened
+2020-02-05 23:29:52,530 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 23:30:01,407 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 23:30:11,763 [main] INFO SwagLabs - Sauce Labs Onesie is present in Shopping Cart
+2020-02-05 23:33:32,059 [main] INFO SwagLabs - URL Opened
+2020-02-05 23:33:32,261 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 23:33:41,097 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 23:33:51,449 [main] INFO SwagLabs - Sauce Labs Onesie is present in Shopping Cart
+2020-02-05 23:36:00,559 [main] INFO SwagLabs - URL Opened
+2020-02-05 23:36:00,766 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 23:36:09,639 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 23:38:51,124 [main] INFO SwagLabs - URL Opened
+2020-02-05 23:38:51,315 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 23:39:00,201 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 23:39:10,910 [main] INFO SwagLabs - Sauce Labs Bike Light is NOT present in Shopping Cart
+2020-02-05 23:40:18,553 [main] INFO SwagLabs - URL Opened
+2020-02-05 23:40:18,759 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 23:40:28,780 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 23:40:39,492 [main] INFO SwagLabs - Sauce Labs Onesie is NOT present in Shopping Cart
+2020-02-05 23:40:39,780 [main] INFO SwagLabs - Sauce Labs Bike Light is NOT present in Shopping Cart
+2020-02-05 23:41:59,218 [main] INFO SwagLabs - URL Opened
+2020-02-05 23:41:59,415 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 23:42:08,713 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 23:42:19,043 [main] INFO SwagLabs - Sauce Labs Onesie is present in Shopping Cart
+2020-02-05 23:42:19,043 [main] INFO SwagLabs - Sauce Labs Bike Light is present in Shopping Cart
+2020-02-05 23:46:23,655 [main] INFO SwagLabs - URL Opened
+2020-02-05 23:46:23,870 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 23:46:32,742 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 23:46:33,082 [main] INFO SwagLabs - Sauce Labs Onesie is present in Shopping Cart
+2020-02-05 23:46:33,082 [main] INFO SwagLabs - Sauce Labs Bike Light is present in Shopping Cart
+2020-02-05 23:48:05,952 [main] INFO SwagLabs - URL Opened
+2020-02-05 23:48:06,185 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 23:48:15,090 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-05 23:48:15,426 [main] INFO SwagLabs - Sauce Labs Onesie is present in Shopping Cart
+2020-02-05 23:48:15,426 [main] INFO SwagLabs - Sauce Labs Bike Light is present in Shopping Cart
+2020-02-05 23:49:10,759 [main] INFO SwagLabs - URL Opened
+2020-02-05 23:49:10,938 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-05 23:49:11,000 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-06 00:07:06,462 [main] INFO SwagLabs - URL Opened
+2020-02-06 00:07:06,668 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-06 00:09:53,281 [main] INFO SwagLabs - URL Opened
+2020-02-06 00:09:53,483 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-06 00:10:02,420 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-06 00:10:02,747 [main] INFO SwagLabs - Sauce Labs Onesie is present in Shopping Cart
+2020-02-06 00:10:02,747 [main] INFO SwagLabs - Sauce Labs Bike Light is present in Shopping Cart
+2020-02-07 22:25:24,133 [main] INFO SwagLabs - URL Opened
+2020-02-07 22:25:24,354 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-07 22:25:25,024 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-07 22:25:25,475 [main] INFO SwagLabs - Sauce Labs Onesie is present in Shopping Cart
+2020-02-07 22:25:25,475 [main] INFO SwagLabs - Sauce Labs Bike Light is present in Shopping Cart
+2020-02-08 20:12:51,978 [main] INFO SwagLabs - URL Opened
+2020-02-08 20:12:52,303 [main] INFO SwagLabs - Entered UserName and Password
+2020-02-08 20:12:52,909 [main] INFO SwagLabs - LogIn Test Successful
+2020-02-08 20:12:53,601 [main] INFO SwagLabs - Sauce Labs Onesie is present in Shopping Cart
+2020-02-08 20:12:53,602 [main] INFO SwagLabs - Sauce Labs Bike Light is present in Shopping Cart

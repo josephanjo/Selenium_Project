@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SwagLabs" duration-ms="2532" started-at="2020-02-08T20:12:51 PST" finished-at="2020-02-08T20:12:53 PST">
+    <groups>
+    </groups>
+    <test name="Swag Labs" duration-ms="2532" started-at="2020-02-08T20:12:51 PST" finished-at="2020-02-08T20:12:53 PST">
+      <class name="com.swaglabs.testCases.TC_LogIn_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.swaglabs.testCases.TC_LogIn_001@394e1a0f]" name="setup" is-config="true" duration-ms="6813" started-at="2020-02-08T20:12:44 PST" finished-at="2020-02-08T20:12:51 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.swaglabs.testCases.TC_LogIn_001@394e1a0f]" name="loginTest" duration-ms="1616" started-at="2020-02-08T20:12:51 PST" finished-at="2020-02-08T20:12:52 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.swaglabs.testCases.TC_LogIn_001@394e1a0f]" name="tearDown" is-config="true" duration-ms="674" started-at="2020-02-08T20:12:54 PST" finished-at="2020-02-08T20:12:54 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.testCases.TC_LogIn_001 -->
+      <class name="com.swaglabs.testCases.TC_AddItemsToCart_002">
+        <test-method status="PASS" signature="AddItems()[pri:0, instance:com.swaglabs.testCases.TC_AddItemsToCart_002@27a5f880]" name="AddItems" duration-ms="660" started-at="2020-02-08T20:12:52 PST" finished-at="2020-02-08T20:12:53 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItems -->
+      </class> <!-- com.swaglabs.testCases.TC_AddItemsToCart_002 -->
+    </test> <!-- Swag Labs -->
+  </suite> <!-- SwagLabs -->
+</testng-results>
