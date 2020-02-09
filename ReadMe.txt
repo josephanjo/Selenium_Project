@@ -16,3 +16,5 @@ Refresh and open the folder Screenshots
 
 To change input parameters to the test -
 Replace the desired values in the config.properties file located at REST_TMDB\Configuration\config.properties
+
+NOTE - The scripts might run only on Windows OS since chromedriver.exe has been used for the automation.
